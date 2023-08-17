@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 14 Aug 2023 17:54:06 at http://www.rcgiltner.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.rcgiltner.com -O1 "C:\Development\websites\rcgiltner.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:54:06	Warning: 	Note: due to www.rcgiltner.com remote robots.txt rules, links beginning with these path will be forbidden: /ajax/, /apps/, /rcgiltner-due-diligence-documentation.html, /first-northern-documents.html (see in the options to disable this)
+17:58:41	Error: 	"Gone" (410) at link js.hs-scripts.com/6333770.js (from www.rcgiltner.com/)
+17:58:41	Error: 	"Forbidden" (403) at link filamentapp.s3.amazonaws.com/eb8ca351ad1fa4adce0300369c2f3be1.js (from www.rcgiltner.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 27 seconds : 265 links scanned, 261 files written (13903657 bytes overall), 262 files updated [9573890 bytes received at 24738 bytes/sec], 6940141 bytes transferred using HTTP compression in 93 files, ratio 34%, 4.9 requests per connection
+(2 errors, 1 warnings, 0 messages)
