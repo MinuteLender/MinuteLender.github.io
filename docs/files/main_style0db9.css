@@ -25,7 +25,7 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  .stuck { position: fixed !important; top: 0; z-index: 13 !important; -webkit-transition: all 240ms linear; -moz-transition: all 240ms linear; -o-transition: all 240ms linear; -ms-transition: all 240ms linear; transition: all 240ms linear; }
  #logo { max-width: 300px; font-weight: bold; text-transform: uppercase; font-size: 1.75em; }
  #logo { padding: 15px 0px; }
- #logo img { max-width: 300px; max-height: 150px; -webkit-transition: all 240ms linear; -moz-transition: all 240ms linear; -o-transition: all 240ms linear; -ms-transition: all 240ms linear; transition: all 240ms linear; }
+ #logo img { max-width: 300px; max-height: 40px; -webkit-transition: all 240ms linear; -moz-transition: all 240ms linear; -o-transition: all 240ms linear; -ms-transition: all 240ms linear; transition: all 240ms linear; }
  #header { position: relative; display: table; width: 100%; }
  #logo, #nav { display: table-cell; vertical-align: middle; }
  .minimize #logo img { max-height: 50px; }
